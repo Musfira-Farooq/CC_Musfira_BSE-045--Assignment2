@@ -5,9 +5,6 @@ terraform.tfstate.backup
 *.tfstate
 *.tfstate.*
 
-# Variable files
-*.tfvars
-
 
 # Sensitive files
 *.pem
